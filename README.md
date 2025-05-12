@@ -1,4 +1,19 @@
 # MightyPizza
 
-username for admin is admin and password is admin1 .
-before signing in as a user 1st sign in as admin then create pizza so that user can se available pizza . by default user cant see any pizza that are available.
+
+🔐 Login Instructions
+Admin Credentials
+
+Username: admin
+
+Password: admin1
+
+Important Setup Steps
+
+Log in as the admin first.
+
+Once logged in, create at least one pizza using the admin dashboard.
+
+After that, regular users will be able to see the available pizzas.
+
+By default, users cannot see any pizzas until the admin has created them.
